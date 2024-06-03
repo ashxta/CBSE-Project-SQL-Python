@@ -452,8 +452,8 @@ def faculty():
         else:
             exit()
 
-
-while True:
+def main():
+  while True:
     print("\n\t\t\t PLEASE SELECT AN OPERATION \n")
     print ("\t\t\t1. Press 1 to setup database")
     print ("\t\t\t2. Press 2 to setup course database")
